@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DND5eUtilitySuite", "DND5eUtilitySuite\DND5eUtilitySuite.csproj", "{97F432BA-E5D5-40C4-ADAB-8DB868212008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F432BA-E5D5-40C4-ADAB-8DB868212008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F432BA-E5D5-40C4-ADAB-8DB868212008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F432BA-E5D5-40C4-ADAB-8DB868212008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F432BA-E5D5-40C4-ADAB-8DB868212008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79FF82F2-0043-47CB-B79D-146F334A2ACB}
+	EndGlobalSection
+EndGlobal
