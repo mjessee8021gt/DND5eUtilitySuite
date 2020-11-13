@@ -68,7 +68,7 @@ namespace DND5eUtilitySuite
                 else
                     member[0] = InitTB.Text;
             }
-            catch(Exception f)
+            catch(Exception)
             {
                 MessageBox.Show("Your Input is not a number", "Invalid Input", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
