@@ -80,9 +80,7 @@ namespace DND5eUtilitySuite
             DialogResult results = MessageBox.Show(message, "Patch Notes", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
             if(results == System.Windows.Forms.DialogResult.Cancel)
             {
-                /*
-                 * Send the user to a new webpage with Patch Notes
-                 */
+                System.Diagnostics.Process.Start("http://www.jessees.me/patch%20notes.html");
             }
         }
 
